@@ -1,7 +1,7 @@
 package org.example;
 
 public class SecondHomeworkAdditionalTask3 {
-    private int number;
+    private int number = 5;
 
     public int getNumber() {
         return number;

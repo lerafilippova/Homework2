@@ -1,4 +1,4 @@
-package org.example;
+package org.example.additionalTasks.PrimitivesAndWrappers;
 
 public class Primitives {
     final byte typeByte = 126;

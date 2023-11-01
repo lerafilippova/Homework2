@@ -1,6 +1,6 @@
 package org.example;
 
-public class SecondHomeworkTask3 {
+public class NumberOfWorkers {
     final int numberProgrammers = 5;
     final int numberTesters = 2;
     final int supportSpecialists = 1;

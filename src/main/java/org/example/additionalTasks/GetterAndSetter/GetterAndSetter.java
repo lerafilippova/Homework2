@@ -1,6 +1,6 @@
-package org.example;
+package org.example.additionalTasks.GetterAndSetter;
 
-public class SecondHomeworkAdditionalTask3 {
+public class GetterAndSetter {
     private int number = 5;
 
     public int getNumber() {

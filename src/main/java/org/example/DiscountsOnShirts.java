@@ -1,6 +1,6 @@
 package org.example;
 
-public class SecondHomeworkTask8 {
+public class DiscountsOnShirts {
     final int priceOneShirtWithoutDiscount = 2550;
     final int selectedShirts = 5;
     final int numberShirtsNeedToBuyToGetDiscount = 3;

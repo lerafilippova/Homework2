@@ -1,4 +1,4 @@
-package org.example;
+package org.example.additionalTasks.PrimitivesAndWrappers;
 
 public class Wrappers {
     final Byte typeByte = 126;

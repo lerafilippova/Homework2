@@ -1,6 +1,6 @@
 package org.example;
 
-public class SecondHomeworkTask7 {
+public class TravelTime {
     final int distanceKlFromHomeToOffice = 11;
     final double averageTaxiSpeed = 40.2;
     final double timeTestersToWork = distanceKlFromHomeToOffice / averageTaxiSpeed;

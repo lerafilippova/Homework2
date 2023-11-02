@@ -1,10 +1,10 @@
 package org.example;
 
 public class NumberOfWorkers {
-    final int numberProgrammers = 5;
-    final int numberTesters = 2;
-    final int supportSpecialists = 1;
-    final int allNumberTesters = numberProgrammers * numberTesters;
-    final int allSupportSpecialists = numberProgrammers * supportSpecialists;
-    final int allWorkers = numberProgrammers + allNumberTesters + allSupportSpecialists;
+    private final int numberProgrammers = 5;
+    private final int numberTesters = 2;
+    private final int supportSpecialists = 1;
+    private final int allNumberTesters = numberProgrammers * numberTesters;
+    private final int allSupportSpecialists = numberProgrammers * supportSpecialists;
+    private final int allWorkers = numberProgrammers + allNumberTesters + allSupportSpecialists;
 }

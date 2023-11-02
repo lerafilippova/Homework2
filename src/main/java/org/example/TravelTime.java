@@ -1,9 +1,9 @@
 package org.example;
 
 public class TravelTime {
-    final int distanceKlFromHomeToOffice = 11;
-    final double averageTaxiSpeed = 40.2;
-    final double timeTestersToWork = distanceKlFromHomeToOffice / averageTaxiSpeed;
-    final double decelerationRateTransportEvening = 0.7;
-    final double timeTestersToHome = timeTestersToWork * decelerationRateTransportEvening;
+    private final int distanceKlFromHomeToOffice = 11;
+    private final double averageTaxiSpeed = 40.2;
+    private final double timeTestersToWork = distanceKlFromHomeToOffice / averageTaxiSpeed;
+    private final double decelerationRateTransportEvening = 0.7;
+    private final double timeTestersToHome = timeTestersToWork * decelerationRateTransportEvening;
 }

@@ -1,7 +1,7 @@
 package org.example;
 
 public class SarumanAndLannister {
-    final int numberLannisterInfantry = 2500;
-    final int numberSarumansArmy = 3600;
-    final int numberInfantryAllianceLannisterAndSarman = numberLannisterInfantry + numberSarumansArmy;
+    private final int numberLannisterInfantry = 2500;
+    private final int numberSarumansArmy = 3600;
+    private final int numberInfantryAllianceLannisterAndSarman = numberLannisterInfantry + numberSarumansArmy;
 }

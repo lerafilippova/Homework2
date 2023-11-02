@@ -3,7 +3,7 @@ package org.example.additionalTasks.GetterAndSetter;
 public class GetterAndSetter {
     private int number = 5;
 
-    private int getNumber() {
+    public int getNumber() {
         return number;
     }
 
